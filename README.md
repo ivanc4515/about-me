@@ -9,5 +9,5 @@ Hi i'm a potato, I like soup, He loves soup, They love soup, We all love soup, a
 4. SEP
 5. ELA
 6. Spanish
-7. Social Studies
+7. Global History
 8. Math
